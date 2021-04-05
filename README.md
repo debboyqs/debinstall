@@ -1,34 +1,16 @@
 # debinstall
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+所有脚本均在 virtualbox + linux发行版 中测试，包含一些linux发行版安装过后的初始化安装脚本，linux发行版安装均为最小化安装，不包含图形界面。
 
 #### 软件架构
 软件架构说明
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+在各个linux发行版目录下的README.md文件中有使用说明！
 
 
-#### 特技
-
+## 温馨提示
+所有脚本均为自用脚本，学习使用，不保证实体机无错误运行，切勿用于生产机器！
 
