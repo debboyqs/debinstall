@@ -1,9 +1,7 @@
 # debinstall
 
 #### 介绍
-所有脚本均在 virtualbox + linux发行版 中测试。
-
-包含一些linux发行版安装过后的初始化安装脚本
+所有脚本均在 virtualbox + linux发行版 中测试。包含一些linux发行版安装过后的初始化安装脚本
 
 linux发行版安装均为最小化安装，不包含图形界面。
 
