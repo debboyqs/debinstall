@@ -2,6 +2,7 @@
 
 #### 介绍
 所有脚本均在 virtualbox + debain10 中测试
+
 测试ISO:debian-10.2.0-amd64-DVD-1.iso
 
 debain基本安装步骤：
