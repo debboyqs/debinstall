@@ -28,7 +28,7 @@
 # 注：适用于挂载光盘源后，第一次安装图形界面GUI
 # 使用该脚本顺序如下：
 # 1.终端先英文化"dpke-reconfigure locales"，退出，重新root登陆
-# 2.添加光盘源 "mount /dev/sr0 /media/cdrom && apt-cdrom add -m -d /media/cdrom"
+# 2.添加光盘(U盘)源 "mount 光盘/U盘(ISO)设备 /media/cdrom && apt-cdrom add -m -d /media/cdrom"
 # 3.注释除光盘源外的其他源
 # 4.最后执行该脚本 
 
