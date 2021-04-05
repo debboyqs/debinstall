@@ -3,9 +3,7 @@
 #### 介绍
 所有脚本均在 virtualbox + archlinux 中测试
 
-
 archlinux基本安装步骤：
-
 分区，格式化，挂载，安装基本系统/软件，网络配置，chroot,passwd,重启！
 
 
