@@ -16,7 +16,7 @@ Advanced options
 #### 安装教程
 注：适用于挂载光盘源后，第一次安装图形界面GUI
 
-注：二次执行前，必须先注释ISO外的所有源 
+注：二次执行前，必须先注释ISO外的所有源 （/etc/apt/sources.list.bak也一样）
 
 
 使用该脚本顺序如下：
