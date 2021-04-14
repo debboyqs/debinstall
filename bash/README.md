@@ -6,8 +6,8 @@
     echocolor_test.sh : 显示echo -e 各颜色代码对比
 
 #### 安装教程
-    sudo cp -f echocolor_test.sh /usr/local/bin/
-    echocolor_test && sudo chmod 755 /usr/local/bin/    echocolor_test
+    sudo cp -f echocolor_test.sh /usr/local/bin/echocolor_test
+    sudo chmod +x /usr/local/bin/echocolor_test
 
 
 #### 温馨提示
