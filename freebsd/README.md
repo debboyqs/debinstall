@@ -6,12 +6,19 @@
 测试ISO:FreeBSD-12.2-RELEASE-amd64-dvd1.iso
 
 freebsd分区参考（vbox）：
+
    ada0        600G  GPT
+   
       ada0p1   200M  efi                   //大小看“auto”选项
+      
       ada0p2   512K  freebsd-boot          //vbox中必须要，否则引导不了
+      
       ada0p3   100G  freebsd-ufs    /
+      
       ada0p4   4.0G  freebsd-swap   swap   // 不能放在第一个分区，否则会找不到系统
+      
       ada0p5   200G  freebsd-ufs    /home
+      
       ada0p6   296G  freebsd-ufs           //其他
 
 
